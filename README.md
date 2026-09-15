@@ -9,3 +9,7 @@ Cover
   - ---- --- = = = -- ==
 
   ?
+
+  __________
+
+  Start new kit log = display nice in Green = stay Black 
